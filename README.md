@@ -1,14 +1,11 @@
-# Business Machine Learning and Data Science Applications 
+# Google Colaboratory Notebook Sharing
 
 ### Admin
-##### Instead of "watching"  you can **join** the link-letter, it's already being sent out to about 90 people and you are free to join too. I will start sending it out to the public by November 2019. Monthly link-sharing list: https://mailchi.mp/ec4942d52cc5/firmai. 
+##### Instead of "watching"  you can **join** the link-letter, that would send you links of open source projects and notebooks once a month starting in 2020: https://mailchi.mp/ec4942d52cc5/firmai. 
 
-#### To encourage active participation, I have created a private repo where all future edits and entries will be made starting November 2019 after which this project will be deprecated. To join indefinitely you have to submit two unique open source python ML or DS projects to d.snow@firmai.org (unique to this list only, it needen't be your own).
-
-[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=A%20list%20of%20Python%20Notebooks%20for%20business%20applications&url=https://github.com/firmai/business-machine-learning&via=dereknow&hashtags=ML,AI,Python,business)
 
 <p align="center">
-  <img src="https://github.com/firmai/business-machine-learning/raw/master/assets/BML%402x-704x454.png">
+  <img src="https://github.com/firmai/business-machine-learning/raw/master/assets/colab.png">
 </p>
 
 
