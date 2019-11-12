@@ -106,8 +106,7 @@ Also, a listed repository should be fixed or removed:
 
 * [Detectron2](https://github.com/facebookresearch/detectron2) - Detectron2 is FAIR's next-generation research platform for object detection and segmentation.
 
-* [EfficientNet 
- - PyTorch]( https://github.com/lukemelas/EfficientNet-PyTorch) - A PyTorch implementation of EfficientNet 
+* [EfficientNet - PyTorch]( https://github.com/lukemelas/EfficientNet-PyTorch) - A PyTorch implementation of EfficientNet 
 
 
 * [Faceswap GAN](https://github.com/shaoanlu/faceswap-GAN) - A denoising autoencoder + adversarial losses and attention mechanisms for face swapping. 
