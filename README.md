@@ -40,6 +40,19 @@ Also, a listed repository should be fixed or removed:
 * [Financial Statement Anomalies](https://github.com/rameshcalamur/fin-stmt-anom) - Detecting anomalies before filing, using R.
 * [Useful Life Prediction (FirmAI)](http://www.firmai.org/documents/Aged%20Debtors/) - Predict the useful life of assets using sensor observations and feature engineering.
 * [AI Applied to XBRL](https://github.com/Niels-Peter/XBRL-AI) - Standardized representation of XBRL into AI and Machine learning.
+
+[Python Data Science Notebook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks 
+* [Python Data Science Notebook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks 
+[BERT](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT 
+
+[DeepFaceLab](https://github.com/chervonij/DFL-Colab) - DeepFaceLab is a tool that utilizes machine learning to replace faces in videos.
+
+
+[CycleGAN and PIX2PIX](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) - Image-to-Image Translation in PyTorch 
+
+
+[Dopamine](https://github.com/google/dopamine) - Dopamine is a research framework for fast prototyping of reinforcement learning algorithms. 
+
  
 <a name="accounting-analytics"></a>
 #### Analytics
