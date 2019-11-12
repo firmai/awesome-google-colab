@@ -1,20 +1,20 @@
 # Google Colaboratory Notebook Sharing
 
-A curated list of fully functional click-and-run colab notebooks with code and data. The code in this repository is in Python unless otherwise stated. 
+A curated list of repositories with fully functional click-and-run colab notebooks with data, code and descriptions. The code in these repositories are in Python unless otherwise stated. 
 
 <p align="center">
   <img src="https://github.com/firmai/google-colab-notebooks/raw/master/assets/colab.png">
 </p>
 
 
-***Caution:*** This is a work in progress, please contribute, especially if you are a subject expert in ML/DS
+***Caution:*** This is a work in progress, please contribute by adding colab functionality to your data science project on github and sending here once you are done. 
 
 ---
  
 If you want to contribute to this list (please do), send me a pull request or contact me [@dereknow](https://twitter.com/dereknow) or on [linkedin](https://www.linkedin.com/in/snowderek/).
-Also, a listed notebooks should be fixed or deleted:
+Also, a listed repository should be fixed or removed:
 
-* if there is no data or descriptive text.
+* if there are no data or descriptive text in the notebooks.
 * the code throws out errors.
 
 </br>
