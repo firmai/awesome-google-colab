@@ -1,24 +1,21 @@
 # Google Colaboratory Notebook Sharing
 
-A curated list of applied business machine learning (BML) and business data science (BDS) examples and libraries. The code in this repository is in Python (primarily using jupyter notebooks) unless otherwise stated. The catalogue is inspired by `awesome-machine-learning`.
+A curated list of fully functional click-and-run colab notebooks with code and data. The code in this repository is in Python unless otherwise stated. 
 
 <p align="center">
   <img src="https://github.com/firmai/google-colab-notebooks/raw/master/assets/colab.png">
 </p>
 
 
-A curated list of applied business machine learning (BML) and business data science (BDS) examples and libraries. The code in this repository is in Python (primarily using jupyter notebooks) unless otherwise stated. The catalogue is inspired by `awesome-machine-learning`.
-
+***Caution:*** This is a work in progress, please contribute, especially if you are a subject expert in ML/DS
 
 ---
+ 
+If you want to contribute to this list (please do), send me a pull request or contact me [@dereknow](https://twitter.com/dereknow) or on [linkedin](https://www.linkedin.com/in/snowderek/).
+Also, a listed notebooks should be fixed or deleted:
 
-***Caution:*** This is a work in progress, please contribute, especially if you are a subject expert in ML/DS for [Accounting](#accounting), [Customer](#customer), [Employee](#employee), [Legal](#legal), [Management](#management), [Operations](#operations). 
-
-If you want to contribute to this list (please do), send me a pull request or contact me [@dereknow](https://twitter.com/dereknow) or on [linkedin](https://www.linkedin.com/in/snowderek/) and you can also reach me on the website [FirmAI](https://www.firmai.org).
-Also, a listed repository should be deprecated if:
-
-* Repository's owner explicitly say that "this library is not maintained".
-* Not committed for long time (2~3 years).
+* if there is no data or descriptive text.
+* the code throws out errors.
 
 </br>
 
@@ -31,43 +28,9 @@ Also, a listed repository should be deprecated if:
 - [Accounting](#accounting)
     - [Machine Learning](#accounting-ml)
     - [Analytics](#accounting-analytics)
-    - [Textual Analysis](#accounting-text)
-    - [Data](#accounting-data)
-    - [Research and Articles](#accounting-ra)
-    - [Websites](#accounting-web)
-    - [Courses](#accounting-course)
 - [Customer](#customer)
     - [Lifetime Value](#customer-clv)
     - [Segmentation](#customer-seg)
-    - [Behaviour](#customer-behave)
-    - [Recommender](#customer-rec)
-    - [Churn Prediction](#customer-cp)
-    - [Sentiment](#customer-sent)
-- [Employee](#employee)
-    - [Management](#employee-man)
-    - [Performance](#employee-perf)
-    - [Turnover](#employee-general-turn)
-    - [Conversations](#employee-con)
-    - [Physical](#employee-ph)
-- [Legal](#legal)
-    - [Tools](#legal-tools)
-    - [Policy and Regulatory](#legal-pr)
-    - [Judicial](#legal-judicial)
-- [Management](#management)
-    - [Strategy](#management-strat)
-    - [Decision Optimisation](#management-do)
-    - [Causal Inference](#management-causal)
-    - [Statistics](#management-stat)
-    - [Quantitative](#management-quant)
-    - [Data](#management-data)
-- [Operations](#operations)
-    - [Failures and Anomalies](#operations-fail)
-    - [Load and Capacity Management](#operations-load)
-    - [Prediction Management](#operations-predict)
-
-
-<!-- /MarkdownTOC -->
-#### Also see [Python Business Analytics](https://github.com/firmai/python-business-analytics)
 
 <a name="accounting"></a>
 ## Accounting
@@ -89,35 +52,24 @@ Also, a listed repository should be deprecated if:
 * [Aged Debtors (FirmAI)](http://www.firmai.org/documents/Aged%20Debtors/) - Example analysis to invetigate aged debtors.
 * [Automated FS XBRL](https://github.com/CharlesHoffmanCPA/charleshoffmanCPA.github.io) - XML Language, however, possibly port analysis into Python.
 
-<a name="accounting-text"></a>
-#### Textual Analysis
 
-* [Financial Sentiment Analysis](https://github.com/EricHe98/Financial-Statements-Text-Analysis) - Sentiment, distance and proportion analysis for trading signals.
-* [Extensive NLP](https://github.com/TiesdeKok/Python_NLP_Tutorial/blob/master/NLP_Notebook.ipynb) - Comprehensive NLP techniques for accounting research.
 
-<a name="accounting-data"></a>
-#### Data, Parsing and APIs
+<a name="customer"></a>
+## Customer
 
-* [EDGAR](https://github.com/TiesdeKok/UW_Python_Camp/blob/master/Materials/Session_5/EDGAR_walkthrough.ipynb) - A walk-through in how to obtain EDGAR data. 
-* [IRS](http://social-metrics.org/sox/) - Acessing and parsing IRS filings.
-* [Financial Corporate](http://raw.rutgers.edu/Corporate%20Financial%20Data.html) - Rutgers corporate financial datasets.
-* [Non-financial Corporate](http://raw.rutgers.edu/Non-Financial%20Corporate%20Data.html) - Rutgers non-financial corporate dataset.
-* [PDF Parsing](https://github.com/danshorstein/python4cpas/blob/master/03_parsing_pdf_files/AR%20Aging%20-%20working.ipynb) - Extracting useful data from PDF documents. 
-* [PDF Tabel to Excel](https://github.com/danshorstein/ficpa_article) - How to output an excel file from a PDF.
+<a name="customer-clv"></a>
+#### Lifetime Value
+* [Pareto/NBD Model](https://github.com/datascienceinc/oreilly-intro-to-predictive-clv/blob/master/oreilly-an-intro-to-predictive-clv-tutorial.ipynb) - Calculate the CLV using a Pareto/NBD model.
+* [Gamma-Gamma Model](https://github.com/GitiHubi/deepAI/blob/master/GTC_2018_CoLab.ipynb) -  Using deep-learning frameworks to identify accounting anomalies.
+* [Cohort Analysis](https://github.com/iris9112/Customer-Segmentation/blob/master/Chapter1-Cohort_Analysis.ipynb) - Cohort analysis to group customers into mutually exclusive cohorts measured over time. 
 
-<a name="accounting-ra"></a>
-#### Research And Articles
+ 
+<a name="customer-seg"></a>
+#### Segmentation
 
-* [Understanding Accounting Analytics](http://social-metrics.org/accountinganalytics/) - An article that tackles the importance of accounting analytics.
-* [VLFeat](http://www.vlfeat.org/) - VLFeat is an open and portable library of computer vision algorithms, which has Matlab toolbox.
-
-<a name="accounting-web"></a>
-#### Websites
-
-* [Rutgers Raw](http://raw.rutgers.edu/) - Good digital accounting research from Rutgers.
-
-<a name="accounting-course"></a>
-#### Courses
-
-* [Computer Augmented Accounting](https://www.youtube.com/playlist?list=PLauepKFT6DK8TaNaq_SqZW4LIDJhCkZe2) - A video series from Rutgers University looking at the use of computation to improve accounting.
-* [Accounting in a Digital Era](https://www.youtube.com/playlist?list=PLauepKFT6DK8_Xun584UQPPsg1grYkWw0) - Another series by Rutgers investigating the effects the digital age will have on accounting.
+* [E-commerce](https://github.com/jalajthanaki/Customer_segmentation/blob/master/Cust_segmentation_online_retail.ipynb ) - E-commerce customer segmentation.
+* [Groceries](https://github.com/harry329/CustomerFinding/blob/master/customer_segments.ipynb ) - Segmentation for grocery customers. 
+* [Online Retailer](https://github.com/Vinayak02/CustomerCentricRetail/blob/master/CustomerSegmentation/Customer_Segmentation_Online_Retail.ipynb) - Online retailer segmentation.
+* [Bank](https://github.com/Mogbo/Customer-Clustering-Segmentation-Challenge) - Bank customer segmentation.
+* [Wholesale](https://github.com/SyedAdilAli93/Identifying-Customers/blob/master/customer_segments.ipynb) - Clustering of wholesale customers.
+* [Various](https://github.com/abalaji-blr/CustomerSegments/tree/master/deliver ) - Multiple types of segmentation and clustering techniques. 
