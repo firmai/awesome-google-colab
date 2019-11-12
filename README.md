@@ -19,6 +19,8 @@ Also, a listed repository should be fixed or removed:
 
 </br>
 
+##### To Find The Colab Notebooks in Each Repository Simply CTRL + F "Colab"
+
 ## Table of Contents
 <!-- MarkdownTOC depth=4 -->
 
