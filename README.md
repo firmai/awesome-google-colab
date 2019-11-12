@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/firmai/business-machine-learning/raw/master/assets/colab.png">
+  <img src="https://github.com/firmai/google-colab-notebooks/raw/master/assets/colab.png">
 </p>
 
 
