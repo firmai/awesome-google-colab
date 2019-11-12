@@ -22,6 +22,7 @@ Also, a listed repository should be fixed or removed:
 ## Table of Contents
 <!-- MarkdownTOC depth=4 -->
 
+- [Courses and Tutorials](#course)
 - [Technologies](#tech)
     - [Text](#tech-text)
     - [Image](#tech-image)
@@ -35,8 +36,38 @@ Also, a listed repository should be fixed or removed:
     - [Artistic](#app-art)
     - [Medical](#app-med)
     - [Operations](#app-op)
- - [Courses and Tutorials](#course)
+
     
+
+<a name="course"></a>
+## Course and Tutorial
+
+* [Python Data Science Notebook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks 
+
+* [Hvass-Labs](https://github.com/Hvass-Labs/TensorFlow-Tutorials) - TensorFlow Tutorials with YouTube Videos 
+
+* [MIT deep learning](https://github.com/lexfridman/mit-deep-learning) - Tutorials, assignments, and competitions for MIT Deep Learning related courses.
+
+* [NLP Tutorial]( https://github.com/graykode/nlp-tutorial) - Natural Language Processing Tutorial for Deep Learning Researchers 
+
+* [DeepSchool.io](https://github.com/sachinruk/deepschool.io) - Deep Learning tutorials in jupyter notebooks. 
+
+* [Deep NLP Course](https://github.com/DanAnastasyev/DeepNLP-Course) - A deep NLP Course 
+
+* [pyprobml](https://github.com/probml/pyprobml) - Python code for "Machine learning: a probabilistic perspective" 
+
+* [MIT 6.S191](https://github.com/aamini/introtodeeplearning_labs) - Lab Materials for MIT 6.S191: Introduction to Deep Learning
+
+
+* [HSE NLP](https://github.com/hse-aml/natural-language-processing) - Resources for "Natural Language Processing" Coursera course
+
+* [Real Word NLP](https://github.com/mhagiwara/realworldnlp) - Example code for "Real-World Natural Language Processing"
+
+* [Notebooks](https://github.com/zaidalyafeai/Notebooks) - Machine learning notebooks in different subjects optimized to run in google collaboratory 
+
+* [Deep Learning Examples](https://github.com/tugstugi/dl-colab-notebooks) - Try out deep learning models online on Google Colab 
+
+
     
 ## Technologies
 <a name="tech"></a>
@@ -184,34 +215,6 @@ Also, a listed repository should be fixed or removed:
 
 * [LSTM Predictive Maintenance](https://github.com/umbertogriffo/Predictive-Maintenance-using-LSTM) - Example of Multiple Multivariate Time Series Prediction with LSTM
 
-
-<a name="course"></a>
-## Course and Tutorial
-
-* [Python Data Science Notebook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks 
-
-* [Hvass-Labs](https://github.com/Hvass-Labs/TensorFlow-Tutorials) - TensorFlow Tutorials with YouTube Videos 
-
-* [MIT deep learning](https://github.com/lexfridman/mit-deep-learning) - Tutorials, assignments, and competitions for MIT Deep Learning related courses.
-
-* [NLP Tutorial]( https://github.com/graykode/nlp-tutorial) - Natural Language Processing Tutorial for Deep Learning Researchers 
-
-* [DeepSchool.io](https://github.com/sachinruk/deepschool.io) - Deep Learning tutorials in jupyter notebooks. 
-
-* [Deep NLP Course](https://github.com/DanAnastasyev/DeepNLP-Course) - A deep NLP Course 
-
-* [pyprobml](https://github.com/probml/pyprobml) - Python code for "Machine learning: a probabilistic perspective" 
-
-* [MIT 6.S191](https://github.com/aamini/introtodeeplearning_labs) - Lab Materials for MIT 6.S191: Introduction to Deep Learning
-
-
-* [HSE NLP](https://github.com/hse-aml/natural-language-processing) - Resources for "Natural Language Processing" Coursera course
-
-* [Real Word NLP](https://github.com/mhagiwara/realworldnlp) - Example code for "Real-World Natural Language Processing"
-
-* [Notebooks](https://github.com/zaidalyafeai/Notebooks) - Machine learning notebooks in different subjects optimized to run in google collaboratory 
-
-* [Deep Learning Examples](https://github.com/tugstugi/dl-colab-notebooks) - Try out deep learning models online on Google Colab 
 
 
 
