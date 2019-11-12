@@ -21,8 +21,6 @@ Also, a listed notebooks should be fixed or deleted:
 
 
 ## Table of Contents
-
-### Department Applications
 <!-- MarkdownTOC depth=4 -->
 
 - [Accounting](#accounting)
