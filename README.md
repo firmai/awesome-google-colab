@@ -17,9 +17,8 @@ Also, a listed repository should be fixed or removed:
 * if there are no data or descriptive text in the notebooks.
 * the code throws out errors.
 
-</br>
-
 ##### To Find The Colab Notebooks in Each Repository Simply CTRL + F "Colab"
+</br>
 
 ## Table of Contents
 <!-- MarkdownTOC depth=4 -->
