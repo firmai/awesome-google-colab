@@ -20,7 +20,7 @@ Also, a listed repository should be fixed or removed:
 ---
 Apart from the colab-enabled repositories listed below, you can also with a bit of work run github jupyter notebooks directly on Google Colaboratory using CPU/GPU/TPU runtimes by replacing https://github.com in the URL by https://colab.research.google.com/github/. No local installation of Python is required. Of course, these notebooks would have to be adapted to ingest the necessary data and modules.
 
-</br>
+#### Search for 'Colab' or the 'Open in Colab' Badge to Open the Colabotary Notebooks in Each Repository
 
 ## Table of Contents
 <!-- MarkdownTOC depth=4 -->
