@@ -1,8 +1,6 @@
 # Google Colaboratory Notebook Sharing
 
-### Admin
-##### Instead of "watching"  you can **join** the link-letter, that would send you links of open source projects and notebooks once a month starting in 2020: https://mailchi.mp/ec4942d52cc5/firmai. 
-
+A curated list of applied business machine learning (BML) and business data science (BDS) examples and libraries. The code in this repository is in Python (primarily using jupyter notebooks) unless otherwise stated. The catalogue is inspired by `awesome-machine-learning`.
 
 <p align="center">
   <img src="https://github.com/firmai/google-colab-notebooks/raw/master/assets/colab.png">
