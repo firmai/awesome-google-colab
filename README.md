@@ -7,7 +7,7 @@ A curated list of repositories with fully functional click-and-run colab noteboo
 </p>
 
 
-***Caution:*** This is a work in progress, please contribute by adding colab functionality to your data science project on github and sending here once you are done. 
+***Caution:*** This is a work in progress, please contribute by adding colab functionality to your data science projects on github.
 
 ---
  
