@@ -19,7 +19,7 @@ Also, a listed repository should be fixed or removed:
 
 </br>
 Sparkline (GitHub stars velocity):
-[![Sparkline](https://stars.medv.io/firmai/google-colab-notebooks.svg)](https://stars.medv.io/firmai/google-colab-notebooks)
+[![Sparkline](https://stars.medv.io/firmai/google-colab-notebooks.svg)](https://stars.medv.io/firmai/google-colab-notebooks)]
 ## Table of Contents
 <!-- MarkdownTOC depth=4 -->
 
