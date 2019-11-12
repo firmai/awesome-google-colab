@@ -6,7 +6,7 @@ A curated list of repositories with fully functional click-and-run colab noteboo
   <img src="https://github.com/firmai/google-colab-notebooks/raw/master/assets/colab.png">
 </p>
 
-**If you have just a single notebook to contribute, use the website https://google-colab.com/, on the top right corner click submit. The earlier you post the more visibility you will get over time**
+**If you have just a single notebook to submit, use the website https://google-colab.com/, on the top right corner click submit. The earlier you post the more visibility you will get over time**
 
 ***Caution:*** This is a work in progress, please contribute by adding colab functionality to your own data science projects on github or requestion it from the authors.
 
