@@ -1,6 +1,6 @@
 # Google Colaboratory Notebook Gallery
 
-A curated list of repositories with fully functional click-and-run colab notebooks with data, code and descriptions. The code in these repositories are in Python unless otherwise stated. 
+A curated list of repositories with fully functional click-and-run colab notebooks with data, code and description. The code in these repositories are in Python unless otherwise stated. 
 
 <p align="center">
   <img src="https://github.com/firmai/google-colab-notebooks/raw/master/assets/colab.png">
