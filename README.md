@@ -44,6 +44,8 @@ Also, a listed repository should be fixed or removed:
 
 * [Python Data Science Notebook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks 
 
+* [Deep Learning Examples](https://github.com/tugstugi/dl-colab-notebooks) - Try out deep learning models online on Google Colab 
+
 * [Hvass-Labs](https://github.com/Hvass-Labs/TensorFlow-Tutorials) - TensorFlow Tutorials with YouTube Videos 
 
 * [MIT deep learning](https://github.com/lexfridman/mit-deep-learning) - Tutorials, assignments, and competitions for MIT Deep Learning related courses.
@@ -58,14 +60,13 @@ Also, a listed repository should be fixed or removed:
 
 * [MIT 6.S191](https://github.com/aamini/introtodeeplearning_labs) - Lab Materials for MIT 6.S191: Introduction to Deep Learning
 
-
 * [HSE NLP](https://github.com/hse-aml/natural-language-processing) - Resources for "Natural Language Processing" Coursera course
 
 * [Real Word NLP](https://github.com/mhagiwara/realworldnlp) - Example code for "Real-World Natural Language Processing"
 
 * [Notebooks](https://github.com/zaidalyafeai/Notebooks) - Machine learning notebooks in different subjects optimized to run in google collaboratory 
 
-* [Deep Learning Examples](https://github.com/tugstugi/dl-colab-notebooks) - Try out deep learning models online on Google Colab 
+
 
 
     
