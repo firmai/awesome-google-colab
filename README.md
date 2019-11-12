@@ -1,11 +1,12 @@
 # Google Colaboratory Notebook and Repository Gallery
 
-A curated list of repositories with fully functional click-and-run colab notebooks with data, code and description. The code in these repositories are in Python unless otherwise stated. **If you have just a single notebook to contribute, use the website https://google-colab.com/, on the top right corner click submit. The earlier you post the more visibility you will get over time**
+A curated list of repositories with fully functional click-and-run colab notebooks with data, code and description. The code in these repositories are in Python unless otherwise stated.
 
 <p align="center">
   <img src="https://github.com/firmai/google-colab-notebooks/raw/master/assets/colab.png">
 </p>
 
+**If you have just a single notebook to contribute, use the website https://google-colab.com/, on the top right corner click submit. The earlier you post the more visibility you will get over time**
 
 ***Caution:*** This is a work in progress, please contribute by adding colab functionality to your data science projects on github.
 
