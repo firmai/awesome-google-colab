@@ -96,7 +96,7 @@ Apart from the colab-enabled repositories listed below, you can also with a bit 
 
 * [BERTScore](https://github.com/Tiiiger/bert_score) - Automatic Evaluation Metric for Bert.
 
-* [Text Summurisation](https://github.com/theamrzaki/text_summurization_abstractive_methods) - https://github.com/theamrzaki/text_summurization_abstractive_methods
+* [Text Summurisation](https://github.com/theamrzaki/text_summurization_abstractive_methods) - Multiple implementations for abstractive text summurization
 
 * [GPT-2 Colab](https://github.com/ak9250/gpt-2-colab) - Retrain gpt-2 in colab 
  
