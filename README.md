@@ -50,6 +50,8 @@ Apart from the colab-enabled repositories listed below, you can also with a bit 
 
 * [Python Data Science Notebook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks 
 
+* [Python Business Analytics](https://github.com/firmai/python-business-analytics) - Python solutions to solve practical business problems. 
+
 * [Deep Learning Examples](https://github.com/tugstugi/dl-colab-notebooks) - Try out deep learning models online on Google Colab 
 
 * [Hvass-Labs](https://github.com/Hvass-Labs/TensorFlow-Tutorials) - TensorFlow Tutorials with YouTube Videos 
