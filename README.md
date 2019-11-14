@@ -22,7 +22,7 @@ Apart from the colab-enabled repositories listed below, you can also with a bit 
 
 #### Search for 'Colab' or the 'Open in Colab' Badge to Open the Colabotary Notebooks in Each Repository
 
-## Favourite Colab Notebooks
+## Ten Favourite Colab Notebooks
 
 
 ## Table of Contents
