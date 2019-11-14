@@ -17,7 +17,7 @@ Also, a listed repository should be fixed or removed:
 
 * if there are no data or descriptive text in the notebooks.
 * the code throws out errors.
-
+---
 * **LinkedIn**: https://www.linkedin.com/company/google-colab-notebooks/
 * **Twitter**: https://twitter.com/ColabNotebooks
 * **Facebook**: https://www.facebook.com/ColabNotebooks/
