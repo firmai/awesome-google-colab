@@ -24,6 +24,18 @@ Apart from the colab-enabled repositories listed below, you can also with a bit 
 
 ## Ten Favourite Colab Notebooks
 
+* [Traffic Counting with OpenCV](https://colab.research.google.com/drive/12N4m_RYKqrpozRzh9qe7nQE_sIqQH9U8)
+* [A collection of 25+ Reinforcement Learning Trading Strategies](https://colab.research.google.com/drive/1FzLCI0AO3c7A4bp9Fi01UwXeoc7BN8sW)
+* [Numerical Solutions for PDEs](https://colab.research.google.com/drive/1lIJ6guEAH5NQObefYBJ7S_Jm21IlJSOo)
+* [Bankruptcy Prediction with Python](https://colab.research.google.com/drive/1ozRafLRWiVL9bwF5ihRUa4gz4rURKEW6)
+* [Facebook Detectron2](https://colab.research.google.com/drive/16jcaJoc6bCFAQ96jDe2HwtXj7BMD_-m5)
+* [Data Sciencing with Twitter](https://colab.research.google.com/drive/1WIcVZgbrU0DYOQqaxuaCLKY6CoLBV18O)
+* [Medical Questions and Answers](https://colab.research.google.com/drive/11hAr1qo7VCSmIjWREFwyTFblU2LVeh1R)
+* [BERT Movie Reviews](https://colab.research.google.com/github/google-research/bert/blob/master/predicting_movie_reviews_with_bert_on_tf_hub.ipynb)
+* [Recurrent Neural Networks for Predictive Maintenance](https://colab.research.google.com/drive/1tjIOud2Cc6smmvZsbl-QDBA6TLA2iEtd)
+* [AirBnB Sydney Rent Evaluation](https://colab.research.google.com/drive/16ILDbLl6rCD0S3r8LrEV7WXpC8LpDuo7)
+
+#### For more see https://google-colab.com/
 
 ## Table of Contents
 <!-- MarkdownTOC depth=4 -->
