@@ -24,6 +24,8 @@ Apart from the colab-enabled repositories listed below, you can also with a bit 
 
 ## Ten Favourite Colab Notebooks
 
+#### For more see https://google-colab.com/
+
 * [Traffic Counting with OpenCV](https://colab.research.google.com/drive/12N4m_RYKqrpozRzh9qe7nQE_sIqQH9U8)
 * [A collection of 25+ Reinforcement Learning Trading Strategies](https://colab.research.google.com/drive/1FzLCI0AO3c7A4bp9Fi01UwXeoc7BN8sW)
 * [Numerical Solutions for PDEs](https://colab.research.google.com/drive/1lIJ6guEAH5NQObefYBJ7S_Jm21IlJSOo)
@@ -35,7 +37,7 @@ Apart from the colab-enabled repositories listed below, you can also with a bit 
 * [Recurrent Neural Networks for Predictive Maintenance](https://colab.research.google.com/drive/1tjIOud2Cc6smmvZsbl-QDBA6TLA2iEtd)
 * [AirBnB Sydney Rent Evaluation](https://colab.research.google.com/drive/16ILDbLl6rCD0S3r8LrEV7WXpC8LpDuo7)
 
-#### For more see https://google-colab.com/
+
 
 ## Table of Contents
 <!-- MarkdownTOC depth=4 -->
