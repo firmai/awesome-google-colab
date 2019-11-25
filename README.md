@@ -70,6 +70,8 @@ Apart from the colab-enabled repositories listed below, you can also with a bit 
 
 * [Python Data Science Notebook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks 
 
+* [ML and EDA](https://github.com/noahgift/functional_intro_to_python#safari-online-training--essential-machine-learning-and-exploratory-data-analysis-with-python-and-jupyter-notebook) - Functional, data science centric introduction to Python.
+
 * [Python Business Analytics](https://github.com/firmai/python-business-analytics) - Python solutions to solve practical business problems. 
 
 * [Deep Learning Examples](https://github.com/tugstugi/dl-colab-notebooks) - Try out deep learning models online on Google Colab 
