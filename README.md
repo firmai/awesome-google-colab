@@ -34,6 +34,7 @@ Apart from the colab-enabled repositories listed below, you can also with a bit 
 
 #### For more see https://google-colab.com/
 
+* [Advanced Business Analytics and Mathematics in Python](https://github.com/firmai/business-analytics-and-mathematics-python)
 * [Traffic Counting with OpenCV](https://colab.research.google.com/drive/12N4m_RYKqrpozRzh9qe7nQE_sIqQH9U8)
 * [A collection of 25+ Reinforcement Learning Trading Strategies](https://colab.research.google.com/drive/1FzLCI0AO3c7A4bp9Fi01UwXeoc7BN8sW)
 * [Numerical Solutions for PDEs](https://colab.research.google.com/drive/1lIJ6guEAH5NQObefYBJ7S_Jm21IlJSOo)
