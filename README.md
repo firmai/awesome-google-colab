@@ -5,7 +5,7 @@ A curated list of repositories with fully functional click-and-run colab noteboo
 To learn more about they whys and hows of Colab [see this post](https://medium.com/@firmai/google-colab-for-reproducible-research-webapps-and-data-science-fb1beec30304). For a few tips and tricks see [this post](https://www.google-colab.com/google-colab-tips-and-tricks/). 
 
 <p align="center">
-  <img src="https://github.com/firmai/google-colab-notebooks/raw/master/assets/colab.png">
+  <img src="https://raw.githubusercontent.com/firmai/awesome-google-colab/master/assets/jjjjj.png">
 </p>
 
 **If you have just a single notebook to submit, use the website https://google-colab.com/, it is really easy, on the top right corner click 'submit +'. The earlier you post the more visibility you will get over time**
