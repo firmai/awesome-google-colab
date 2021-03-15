@@ -1,12 +1,10 @@
 # Unofficial Google Colaboratory Notebook and Repository Gallery
 
+**Please contact me to take over and revamp this repo (it gets around 30k views and 200k clicks per year), I don't have time to update or maintain it - message 15/03/2021**
+
 A curated list of repositories with fully functional click-and-run colab notebooks with data, code and description. The code in these repositories are in Python unless otherwise stated. 
 
 To learn more about they whys and hows of Colab [see this post](https://medium.com/@firmai/google-colab-for-reproducible-research-webapps-and-data-science-fb1beec30304). For a few tips and tricks see [this post](https://www.google-colab.com/google-colab-tips-and-tricks/). 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/firmai/awesome-google-colab/master/assets/jjjjj.png">
-</p>
 
 **If you have just a single notebook to submit, use the website https://google-colab.com/, it is really easy, on the top right corner click 'submit +'. The earlier you post the more visibility you will get over time**
 
