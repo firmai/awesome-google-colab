@@ -172,7 +172,7 @@ Apart from the colab-enabled repositories listed below, you can also with a bit 
 
 * [bsuite](https://github.com/deepmind/bsuite) - Collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent
 
-* [TF Generative Models](https://github.com/timsainb/tensorflow2-generative-models) - mplementations of a number of generative models in Tensorflow
+* [TF Generative Models](https://github.com/timsainb/tensorflow2-generative-models) - Implementations of a number of generative models in Tensorflow
 
  
 * [DQN to Rainbow]( https://github.com/Curt-Park/rainbow-is-all-you-need) - A step-by-step tutorial from DQN to Rainbow 
