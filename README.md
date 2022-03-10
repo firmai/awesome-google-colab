@@ -234,7 +234,7 @@ Apart from the colab-enabled repositories listed below, you can also with a bit 
 
 * [Rapping NN](https://github.com/robbiebarrat/rapping-neural-network) - Rap song writing recurrent neural network trained on Kanye West's entire discography 
 
-* [Photogrammetry](https://colab.research.google.com/github/o-date/photogrammetry/blob/master/Meshroom_+_GPU_for_Photogrammetry.ipynb) - Render Photogrammetry With Colab's Cloud GPU's With Meshroom. 
+* [Photogrammetry](https://github.com/alicevision/meshroom/wiki/Meshroom-in-Google-Colab-(cloud)) - Render Photogrammetry With Colab's Cloud GPU's With Meshroom. 
 
 * [dl4g](https://github.com/smartgeometry-ucl/dl4g) - Deep Learning for Graphics 
 
